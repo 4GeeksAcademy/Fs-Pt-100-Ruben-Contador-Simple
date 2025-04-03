@@ -9,3 +9,25 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.counter{
+    text-align: center;
+    background: black;
+    min-width: 900px;
+    min-height: 240px;
+    justify-self: center;
+    border-radius: 10px;
+    align-content: center;
+
+}
+.counter div{
+    display: inline-block;
+    font-size: 90px;
+    line-height: 60px;
+    background: #101010;
+    color: white;
+    padding: 25px;
+    margin: 14px;
+    border-radius: 10px;
+}
+
